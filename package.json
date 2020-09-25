@@ -1,0 +1,10 @@
+{
+	"scripts": {
+		"test": "node --experimental-vm-modules index.js"
+	},
+	"dependencies": {
+		"chalk": "^4.0.0",
+		"parcel": "^2.0.0-nightly.270",
+		"resolve": "^1.17.0"
+	}
+}
